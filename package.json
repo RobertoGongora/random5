@@ -1,0 +1,27 @@
+{
+  "name": "random5",
+  "version": "1.0.0",
+  "description": "Random Image Viewer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertoGongora/random5.git"
+  },
+  "keywords": [
+    "random",
+    "images",
+    "viewer"
+  ],
+  "author": "Roberto Gongora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertoGongora/random5/issues"
+  },
+  "homepage": "https://github.com/RobertoGongora/random5#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
